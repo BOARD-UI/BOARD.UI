@@ -1,4 +1,7 @@
 # BOARD.UI
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/852e2055e5374cffb8e6f9a60932ea9a)](https://app.codacy.com/gh/BOARD-UI/BOARD.UI?utm_source=github.com&utm_medium=referral&utm_content=BOARD-UI/BOARD.UI&utm_campaign=Badge_Grade_Settings)
+
 # Integrantes
  - Angie Medina
  - Jose Perez
