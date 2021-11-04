@@ -2,13 +2,12 @@ package edu.escuelaing.arsw.boardUI.model;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
-import java.util.Objects;
+
 /**
  * Class that corresponds to the Rooms table in the database
+ * 
  * @author Luis Amaya
  * @author Angie Medina
  * @author Sebastian Mina
@@ -18,7 +17,7 @@ import java.util.Objects;
 
 @Entity
 @Table(name = "permissions")
-public class Permission { 
+public class Permission {
 
     @Id
     @Column(name = "permission_id")
@@ -62,10 +61,9 @@ public class Permission {
     public void setPermissionId(int permissionId) {
         this.permissionId = permissionId;
     }
-    
+
     public int getPermissionId() {
         return permissionId;
     }
-    
 
 }

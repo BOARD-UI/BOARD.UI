@@ -6,7 +6,6 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
-import java.util.Objects;
 
 @Entity
 @Table(name = "files")
@@ -18,7 +17,7 @@ public class File {
 
     @Column(name = "room_id")
     private int roomId;
-    
+
     private String name;
     private String extension;
     private String content;
@@ -26,7 +25,8 @@ public class File {
     @Column(name = "request_id")
     private int requestId;
 
-    public File() {}
+    public File() {
+    }
 
     public void setFileId(int fileId) {
         this.fileId = fileId;
@@ -63,7 +63,7 @@ public class File {
     public int getFileId() {
         return fileId;
     }
-    
+
     public String getName() {
         return name;
     }
