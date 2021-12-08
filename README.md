@@ -14,7 +14,7 @@ Board.UI es una herramienta de colaboración en tiempo real que permitirá a mil
 
 ## Antecedentes
 
-Los antecedentes que nos llevaron a pensar esta propuesta de proyecto fueron principalmente los editores de texto que normalmente usamos para el desarrollo de nuestros proyectos.
+Los antecedentes que nos llevaron a pensar esta propuesta de proyecto, fueron principalmente los editores de texto que normalmente usamos para el desarrollo de nuestros proyectos.
 
 ## Mockups 
 
@@ -58,38 +58,38 @@ Los antecedentes que nos llevaron a pensar esta propuesta de proyecto fueron pri
 
 ## Manual de Usuario
 ### Iniciar Sesión
-Al ingresar al link de la aplicación, la primera vista que se mostrará le pedira al usuario las credenciales para el inicio de sesión.  
+Al ingresar al link de la aplicación, la primera vista que se mostrará le pedirá al usuario las credenciales para el inicio de sesión.  
 ![](Img/Manual/IniciarSesion.PNG)
-En el caso de que las credenciales sean incorrectas o no correspondan a un usuario registrado en la base de datos, la vista sera la misma que al inicio.  
+En el caso de que las credenciales sean incorrectas o no correspondan a un usuario registrado en la base de datos, la vista será la misma que al inicio.  
 ![](Img/Manual/IniciarSesion.PNG)
-Si por el contrario las credenciales son correctas se ingresará a la cuenta del usuario mostrando la siguiente vista.  
+Si por el contrario las credenciales son correctas, se ingresará a la cuenta del usuario mostrando la siguiente vista.  
 ![](Img/Manual/Home.PNG)
 Para visualizar los diversos campos de sala y archivos, se deberá dar click al icono de desplegue que se encuentra en la parte superior izquierda de la pequeña ventana.  
 ![](Img/Manual/Home2.png)
 ![](Img/Manual/Menu.png)
 
 ### Crear Sala
-Para crear una sala se deberá dar click sobre el simbolo *+* en el apartado *Rooms* y a continuación definir el nombre que tendra esta y checkear el apartado de *crear sala*.  
+Para crear una sala, se deberá dar click sobre el simbolo *+* en el apartado *Rooms* y a continuación definir el nombre que tendrá esta y checkear el apartado de *crear sala*.  
 ![](Img/Manual/CreateRoom.PNG)
-Automaticamente se podra ver que se genero en el apartado *Rooms* esta nueva sala.  
+Automáticamente, se podrá ver que se generó en el apartado *Rooms* esta nueva sala.  
 ![](Img/Manual/CreateRoom2.PNG)  
 ### Unirse a Sala
-Para unirse a una sala se deberá ingresar el nombre de esta y dejar el el apartado de *crear sala* sin checkear
+Para unirse a una sala, se deberá ingresar el nombre de esta y dejar el apartado de *crear sala* sin checkear.
 ![](Img/Manual/JoinRoom.PNG)
-Automaticamente se podra ver que se genero en el apartado *Rooms* esta nueva sala.  
+Automáticamente, se podrá ver que se generó en el apartado *Rooms* esta nueva sala.  
 ![](Img/Manual/JoinRoom2.PNG)    
 
 ### Dejar sala
-Para dejar una sala basta con seleccionar otra de las ya guardadas salas
+Para dejar una sala basta con seleccionar otra de las ya guardadas salas.
 ![](Img/Manual/ChangeRoom.PNG)
 ![](Img/Manual/ChangeRoom2.PNG)
 
 ### Añadir archivos
-Para añadir archivos se debera dar click al simbolo de *+* que se encuentra en la parte superior derecha de la pequeña ventana.
+Para añadir archivos, se deberá dar click al simbolo de *+* que se encuentra en la parte superior derecha de la pequeña ventana.
 ![](Img/Manual/AddFile.PNG)
-Esta acción creará una tab en la ventana y este tendrá un espacio para arrastrar y soltar un archivo para despues montarlo con el boton de *upload*
+Esta acción creará una tab en la ventana y este tendrá un espacio para arrastrar y soltar un archivo para despues montarlo con el boton de *upload*.
 ![](Img/Manual/AddFile2.PNG)
-Se vera que en el apartado de *Files* se encuentra el archivo que se adicionó.  
+Se verá que en el apartado de *Files* se encuentra el archivo que se adicionó.  
 ![](Img/Manual/AddFile3.PNG)
 
 ## Enlace Taiga 🔗
